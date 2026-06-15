@@ -1,1 +1,11 @@
+git init
 
+git add .
+
+git commit -m "Task 6 - Java Swing ToDo Application"
+
+git branch -M main
+
+git remote add origin https://github.com/yourusername/JavaSwingTodoApp.git
+
+git push -u origin main
