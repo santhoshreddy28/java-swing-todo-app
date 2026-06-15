@@ -57,7 +57,7 @@ JavaSwingTodoApp/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/java-swing-todo-app.git
+git clone https://github.com/santhoshreddy28/java-swing-todo-app.git
 ```
 
 ### Navigate to Project Directory
@@ -69,6 +69,8 @@ cd java-swing-todo-app
 ### Compile
 
 ```bash
+cd src
+
 javac TodoApp.java
 ```
 
@@ -78,7 +80,7 @@ javac TodoApp.java
 java TodoApp
 ```
 
----
+
 
 ## Usage
 
